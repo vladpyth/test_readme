@@ -1,2 +1,0 @@
-print("ke")
-print("main")
